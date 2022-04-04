@@ -1,0 +1,10 @@
+①PHP
+②model
+③view
+④controller
+⑤HTTPメソッド
+⑥get
+⑦post
+⑧put
+⑨ルーティング
+⑩blade
